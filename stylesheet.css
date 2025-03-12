@@ -1,0 +1,12 @@
+body {
+    margin: 500;
+    font-family: 'Courier New', Courier, monospace;
+    }
+
+code {
+    font-family: 'Courier New', Courier, monospace;
+}
+#Heading {
+    background-color: aquamarine;
+    padding: 10%;
+}
