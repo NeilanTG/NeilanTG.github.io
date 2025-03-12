@@ -8,12 +8,12 @@ code {
 }
 #Heading {
     background-color: aquamarine;
-    padding: 20%;
+    padding: 2%;
     align-content: center;
 }
 .smallTxt {
-    margin: 20%;
-    background-color: red;
+    margin: 2%;
+    background-color: gray;
     align-content: center;
 }
 .subTxt {
@@ -21,11 +21,15 @@ code {
     background-color: yellow;
     align-content: center;
 }
+.imageBoxC{
+    margin: 2%;
+    align-content: center;
+}
 h1 {
     color: blue;
 }
 p {
-    color: green;
+    color: black;
 }
 a:hover {
     color: red;
