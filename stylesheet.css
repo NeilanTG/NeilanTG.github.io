@@ -8,12 +8,13 @@ code {
 }
 #Heading {
     background-color: aquamarine;
-    padding: 10%;
+    padding: 20%;
     align-content: center;
 }
-#Subtext {
+.smallText {
+    margin: 20%;
     background-color: red;
-    align-content: end;
+    align-content: center;
 }
 h1 {
     color: blue;
