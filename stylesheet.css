@@ -9,4 +9,15 @@ code {
 #Heading {
     background-color: aquamarine;
     padding: 10%;
+    align-content: center;
+}
+#Subtext {
+    background-color: red;
+    align-content: end;
+}
+h1 {
+    color: blue;
+}
+p {
+    color: green;
 }
