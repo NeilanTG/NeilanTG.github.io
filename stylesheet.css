@@ -1,5 +1,5 @@
 body {
-    margin: 500;
+    margin: 5%;
     font-family: 'Courier New', Courier, monospace;
     }
 
@@ -11,9 +11,14 @@ code {
     padding: 20%;
     align-content: center;
 }
-.smallText {
+.smallTxt {
     margin: 20%;
     background-color: red;
+    align-content: center;
+}
+.subTxt {
+    margin: 2%;
+    background-color: yellow;
     align-content: center;
 }
 h1 {
@@ -21,4 +26,7 @@ h1 {
 }
 p {
     color: green;
+}
+a:hover {
+    color: red;
 }
